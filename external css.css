@@ -1,0 +1,23 @@
+body {
+  background-image: url("bg22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+  };
+  
+  h3{
+    color: aqua;
+  }
+  marquee {
+    font-size: xx-large;
+   } 
+   
+   h3,h1{
+    color:whitesmoke;
+   }
+   h4{
+    font-size: 25px;
+    color: rgb(255, 248, 240);
+    font-family:'Courier New', Courier, monospace;
+    padding-left:0cm;
+   }
